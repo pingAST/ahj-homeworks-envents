@@ -5,3 +5,5 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/d88dojb242nwjieh/branch/main?svg=true)](https://ci.appveyor.com/project/pingAST/ahj-homeworks-envents/branch/main)
 
+[Cсылка на Github Pages](https://pingast.github.io/ahj-homeworks-envents/)
+
